@@ -17,7 +17,7 @@ public class Messaging {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Sup Nick? Time to build a badass app.");
-        System.out.println("Yup");
+        System.out.println("Yup, let's do it.");
     }
     
 }
