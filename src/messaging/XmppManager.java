@@ -59,7 +59,7 @@ public class XmppManager {
         
     }
     
-    public void performLogin(String Usrname, String password) throw
+    public void performLogin(String Username, String password); throw
 XMPPException {
         if (connection!=null && connection.isConnected()) {
             connection.login(username, password);
